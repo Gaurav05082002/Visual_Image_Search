@@ -1,4 +1,5 @@
-﻿# Visual_Image_Search ## [SHORT DEMO VIDEO LINK](https://youtu.be/YlY53hB3sj8)
+﻿# Visual_Image_Search 
+## [SHORT DEMO VIDEO LINK](https://youtu.be/YlY53hB3sj8)
 # Testing
 
 **Run** [Main_Searching_Model_Script.ipynb](https://github.com/Gaurav05082002/Visual_Image_Search/blob/main/Main_Searching_Model_Script.ipynb) **in a notebook environment for seeing completely error-free working demo** Please refer to the [Setting up the environment](https://github.com/Gaurav05082002/Visual_Image_Search?tab=readme-ov-file#setting-up-the-environment) section for detailed setup instructions. 
