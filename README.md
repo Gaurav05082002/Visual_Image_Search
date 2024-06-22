@@ -1,7 +1,7 @@
 ﻿# Visual_Image_Search
 # Testing
 
-**Run [Main_Searching_Model_Script.ipynb](https://github.com/Gaurav05082002/Visual_Image_Search/blob/main/Main_Searching_Model_Script.ipynb) in a notebook environment for seeing completely error-free working demo** Please refer to the [Setting up the environment](https://github.com/Gaurav05082002/Visual_Image_Search?tab=readme-ov-file#setting-up-the-environment) section for detailed setup instructions. 
+**Run** [Main_Searching_Model_Script.ipynb](https://github.com/Gaurav05082002/Visual_Image_Search/blob/main/Main_Searching_Model_Script.ipynb) **in a notebook environment for seeing completely error-free working demo** Please refer to the [Setting up the environment](https://github.com/Gaurav05082002/Visual_Image_Search?tab=readme-ov-file#setting-up-the-environment) section for detailed setup instructions. 
 
 Currently, our model is trained mostly on women's wear products, so please use traditional wear images like saree, kurta, etc., as input.
 
